@@ -26,7 +26,7 @@ Any dead cell with exactly three live neighbours becomes a live cell, as if by r
 ## Installation
 App requires Python 3+.
 ### Clone
-Clone this repo to your local machine using  `https://github.com/fvcproductions/SOMEREPO`
+Clone this repo to your local machine using  `https://github.com/tatiana-cooper/Conway-s-Game-of-Life.git`
 
 ### Setup
 Windows 10:
